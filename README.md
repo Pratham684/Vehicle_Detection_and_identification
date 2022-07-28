@@ -1,9 +1,5 @@
 # VEHICLE DETECTION, TRACKING AND COUNTING
-This sample project focuses on "Vechicle Detection, Tracking and Counting" using [**TensorFlow Object Counting API**](https://github.com/ahmetozlu/tensorflow_object_counting_api). ***Please contact if you need professional vehicle detection & tracking & counting project with the super high accuracy!***
-
----
-
-***The [TensorFlow Object Counting API](https://github.com/ahmetozlu/tensorflow_object_counting_api) is used as a base for object counting on this project, more info can be found on this [repo](https://github.com/ahmetozlu/tensorflow_object_counting_api).***
+This sample project focuses on "Vechicle Detection, Identification, Counting and Tracking" using [**TensorFlow Object Counting API**]
 
 ---
 
