@@ -32,9 +32,9 @@ This sample project has more than just counting vehicles, here are the additiona
   <img src="https://user-images.githubusercontent.com/22610163/103478400-80414280-4dd7-11eb-9874-3735359e2c20.png">
 </p>
 
-- Vehicle detection and classification have been developed using TensorFlow Object Detection API, [see](https://github.com/ahmetozlu/vehicle_counting_tensorflow/blob/master/vehicle_detection_main.py) for more info.
-- Vehicle speed prediction has been developed using OpenCV via image pixel manipulation and calculation, [see](https://github.com/ahmetozlu/vehicle_counting_tensorflow/tree/master/utils/speed_and_direction_prediction_module) for more info.
-- Vehicle color prediction has been developed using OpenCV via K-Nearest Neighbors Machine Learning Classification Algorithm is Trained Color Histogram Features, [see](https://github.com/ahmetozlu/vehicle_counting_tensorflow/tree/master/utils/color_recognition_module) for more info.
+- Vehicle detection and classification have been developed using TensorFlow Object Detection API
+- Vehicle speed prediction has been developed using OpenCV via image pixel manipulation and calculation
+- Vehicle color prediction has been developed using OpenCV via K-Nearest Neighbors Machine Learning Classification Algorithm is Trained Color Histogram Features
 
 [TensorFlow™](https://www.tensorflow.org/) is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them.
 
